@@ -1,0 +1,48 @@
+body{
+    font: 15px/1.5 Times New Roman, Times, serif;
+    padding:0;
+    margin:0;
+    background-color:#f4f4f4;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+}
+
+#title{
+    font-size:25px;
+    text-align:center;
+}
+
+#title h1{
+    margin-bottom:0;
+}
+
+#title p{
+    margin-top:0;
+}
+
+/* Header **/
+header{
+    background:#35424a;
+    color:#ffffff;
+}
+
+header a{
+    color:#ffffff;
+    text-decoration: none;
+    font-size:16px;
+}
+
+header ul{
+    margin:0;
+    padding:0;
+}
+
+header li{
+    float:left;
+    display:inline;
+    padding: 0 20px 0 20px;
+}
